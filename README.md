@@ -2,7 +2,16 @@
 
 # Hi there, I'm Mai 👋
 
-Welcome to my GitHub profile! Here you'll find some insights into my coding journey and the languages I use.
+Welcome to my GitHub profile! Here you'll find some insights into my coding journey, technologies I use, and current projects.
+
+## 🛠 Technologies & Tools
+
+<!-- Badges for tools and technologies -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🚀 GitHub Stats
 
@@ -12,17 +21,9 @@ Welcome to my GitHub profile! Here you'll find some insights into my coding jour
 
 ![Mai's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mai-00048&layout=compact&theme=dark&bg_color=000000&text_color=ffffff)
 
-## 🌟 Featured Repositories
+## 🚀 Current Project
 
-[![Repository 1](https://img.shields.io/badge/Repo_1-Click_here-green)](https://github.com/Mai-00048/repo1)  
-[![Repository 2](https://img.shields.io/badge/Repo_2-Click_here-blue)](https://github.com/Mai-00048/repo2)  
-[![Repository 3](https://img.shields.io/badge/Repo_3-Click_here-red)](https://github.com/Mai-00048/repo3)  
-
-## 📝 Recent Blog Posts
-
-<!-- If you have a blog or use a platform that supports RSS feeds, you can include recent posts here. -->
-[![Blog Post 1](https://img.shields.io/badge/Blog_Post_1-Title_of_Post-ff69b4)](https://your-blog.com/post1)  
-[![Blog Post 2](https://img.shields.io/badge/Blog_Post_2-Title_of_Post-ff69b4)](https://your-blog.com/post2)  
+[![Project Name](https://img.shields.io/badge/Project_Name-Details_Here-blue)](https://github.com/Mai-00048/current-project)
 
 </div>
 
