@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, I'm Mai 👋
 
 Welcome to my GitHub profile! Here you'll find some insights into my coding journey and the languages I use.
@@ -10,12 +12,10 @@ Welcome to my GitHub profile! Here you'll find some insights into my coding jour
 
 ![Mai's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mai-00048&layout=compact&theme=dark&bg_color=000000&text_color=ffffff)
 
-<!-- Add any additional sections or information you want to share -->
+</div>
 
 ---
 
-Feel free to explore my repositories and connect with me!
-
-📫 You can reach me at [your-email@example.com](mailto:your-email@example.com)  
-🌐 Check out my website: [your-website.com](https://your-website.com)
+### 📫 Reach me at [your-email@example.com](mailto:your-email@example.com)  
+### 🌐 Check out my website: [your-website.com](https://your-website.com)
 
