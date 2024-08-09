@@ -12,10 +12,13 @@ Welcome to my GitHub profile! Here you'll find some insights into my coding jour
 
 ![Mai's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mai-00048&layout=compact&theme=dark&bg_color=000000&text_color=ffffff)
 
+## 🔥 Latest Projects
+
+Here are some of my recent projects:
+
+- [Project 1](https://github.com/Mai-00048/project1) - A brief description of Project 1.
+- [Project 2](https://github.com/Mai-00048/project2) - A brief description of Project 2.
+- [Project 3](https://github.com/Mai-00048/project3) - A brief description of Project 3.
+
 </div>
-
----
-
-### 📫 Reach me at [your-email@example.com](mailto:your-email@example.com)  
-### 🌐 Check out my website: [your-website.com](https://your-website.com)
 
