@@ -4,7 +4,7 @@
 
 ## 🏆 Top Skills
 
-![Top Skills](https://skillicons.dev/icons?i=js,html,css,python,react,java,tensorflow,pytorch,scikit-learn)
+![Top Skills](https://skillicons.dev/icons?i=js,html,css,python,react,java,tensorflow,pytorch,scikit-learn,opencv)
 
 ## 🚀 GitHub Stats
 
@@ -17,7 +17,3 @@
 </div>
 
 ---
-
-### 📫 Reach me at [your-email@example.com](mailto:your-email@example.com)  
-### 🌐 Check out my website: [your-website.com](https://your-website.com)
-
