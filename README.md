@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Here you'll find insights into my coding journey a
 
 ## 📈 Contribution Graph
 
-![Mai's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mai-00048&theme=github)
+For a detailed view of my recent activity, visit my [GitHub Contributions](https://github.com/Mai-00048) page.
 
 </div>
 
