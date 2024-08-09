@@ -1,7 +1,9 @@
-# 🌟 Hi, I'm Mai! 🌟
+<!-- Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi,_I'm_Mai-%23FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Header"/>
+</p>
 
-## 🛠️ Technologies & Tools
-
+<!-- Skills & Technologies -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
@@ -12,46 +14,35 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
-## 📊 GitHub Stats
-
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=merko" alt="GitHub Stats"/>
 </p>
 
-## 🌍 Most Used Languages
-
+<!-- Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=merko" alt="Top Languages"/>
 </p>
 
-## 🔥 Recent Activity
-
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=dark" alt="Recent Activity"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=merko" alt="Contribution Graph"/>
 </p>
 
-## 🔗 Connect with Me
-
+<!-- Connect with Me -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23F7DF1C?style=flat&logo=portfolio&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23F7DF1C?style=for-the-badge&logo=portfolio&logoColor=black" alt="Portfolio"/>
   </a>
 </p>
 
-## 🎨 My Design Work
-
+<!-- Footer -->
 <p align="center">
-  ![Design Showcase](https://path/to/your/design-image.png)
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/footer-image.png" alt="Footer Image" width="500"/>
 </p>
-
----
-
-*Thanks for visiting my profile! Feel free to connect with me or check out my work.*
-
