@@ -1,47 +1,40 @@
-# 👋 Hello, I'm Mai!
+# Mai's GitHub Profile
 
-Welcome to my GitHub profile! I'm a passionate web developer and machine learning enthusiast with a love for creating innovative solutions and beautiful designs.
+## 🔧 Tools & Technologies
 
-## 🌟 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-%23282C34?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</p>
 
-- 🚀 **Passionate** about smart cities and developing cutting-edge technologies.
-- 🌐 **Self-taught** web developer with a knack for crafting unique and timeless masterpieces.
-- 🧠 **Machine Learning** enthusiast with a focus on animal detection on roads.
-- 📚 **Continual Learner**, always exploring new technologies and tools.
+## 📊 GitHub Stats
 
-## 🛠️ Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats"/>
+</p>
 
-- **Web Development**: HTML, CSS, JavaScript, React, Node.js
-- **Machine Learning**: Python, TensorFlow, Keras, Scikit-Learn
-- **Tools & Technologies**: Git, Docker, SQL, NoSQL databases
+## 🌍 Languages
 
-## 💼 Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
-### 🚀 [Smart City Solutions](https://github.com/yourusername/smart-city-solutions)
-Innovative solutions for enhancing urban living through smart technologies.
+## 📈 Contribution Graph
 
-### 🐾 [Animal Detection System](https://github.com/yourusername/animal-detection)
-A machine learning project focused on detecting animals on roads to prevent accidents.
-
-### 🎨 [Creative Web Designs](https://github.com/yourusername/creative-web-designs)
-A collection of web designs showcasing unique and attractive styles.
-
-## 📈 GitHub Stats
-
-![Mai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical" alt="Contribution Graph"/>
+</p>
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourusername)
-- [Portfolio](https://yourportfolio.com)
-
-## 📩 Contact
-
-Feel free to reach out to me at [email@example.com](mailto:email@example.com) for any collaborations or just to say hi!
-
----
-
-Thank you for visiting my GitHub profile. I'm always open to new opportunities and collaborations. Let's create something amazing together!
-
-![Welcome Banner](https://path/to/your/banner/image.jpg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23F7DF1C?style=flat&logo=portfolio&logoColor=black" alt="Portfolio"/></a>
+</p>
