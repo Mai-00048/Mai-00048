@@ -5,18 +5,16 @@
 
 <!-- About Me -->
 <h2 align="center">Hi there! 👋 I'm Mai</h2>
-<p align="center">A passionate web developer and machine learning enthusiast.</p>
+<p align="center">An AI Specialist with a passion for creating innovative machine learning solutions.</p>
 
-<!-- Skills -->
-<h3 align="center">🔧 Skills & Technologies</h3>
+<!-- AI Skills & Technologies -->
+<h3 align="center">🤖 AI Skills & Technologies</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/ML%20Algorithms-%231C6DFF?style=for-the-badge&logo=algorithms&logoColor=white" alt="ML Algorithms"/>
 </p>
 
 <!-- GitHub Stats -->
@@ -35,6 +33,17 @@
 <h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyonight" alt="Contribution Graph"/>
+</p>
+
+<!-- AI Projects -->
+<h3 align="center">🛠️ AI Projects</h3>
+<p align="center">
+  <a href="https://github.com/yourusername/animal-detection" target="_blank">
+    <img src="https://img.shields.io/badge/Animal%20Detection-%23FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Animal Detection"/>
+  </a>
+  <a href="https://github.com/yourusername/smart-city-solutions" target="_blank">
+    <img src="https://img.shields.io/badge/Smart%20City%20Solutions-%231C6DFF?style=for-the-badge&logo=github&logoColor=white" alt="Smart City Solutions"/>
+  </a>
 </p>
 
 <!-- Connect with Me -->
