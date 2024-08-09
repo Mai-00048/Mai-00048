@@ -2,7 +2,6 @@
 
 # Hi there, I'm Mai 👋
 
-Welcome to my GitHub profile! Here you'll find insights into my coding journey and some useful information.
 
 ## 🏆 Top Skills
 
@@ -15,10 +14,6 @@ Welcome to my GitHub profile! Here you'll find insights into my coding journey a
 ## 🌍 Most Used Languages
 
 ![Mai's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mai-00048&layout=compact&theme=dark&bg_color=000000&text_color=ffffff)
-
-## 📈 Contribution Graph
-
-For a detailed view of my recent activity, visit my [GitHub Contributions](https://github.com/Mai-00048) page.
 
 </div>
 
